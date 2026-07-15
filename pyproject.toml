@@ -3,7 +3,7 @@ requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "pyarith"
+name = "pyarith-final"
 version = "0.1.0"
 description = "A clean, dependency-free arithmetic utility library for Python."
 readme = "README.md"
