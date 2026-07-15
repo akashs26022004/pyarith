@@ -8,7 +8,7 @@
 
 ---
 
-## Features
+## Feature
 
 | Category | Functions |
 |---|---|
